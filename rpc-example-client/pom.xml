@@ -24,7 +24,7 @@
         </dependency>
         <dependency>
             <groupId>com.study</groupId>
-            <artifactId>rpc-code</artifactId>
+            <artifactId>rpc-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

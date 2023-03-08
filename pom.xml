@@ -13,7 +13,7 @@
         <module>rpc-example-server</module>
         <module>rpc-common</module>
         <module>rpc-example-client</module>
-        <module>rpc-code</module>
+        <module>rpc-core</module>
     </modules>
 
     <properties>
